@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This is 2 importable macros for [Keyboard Maestro](https://www.keyboardmaestro.com/main/) (Mac only). These macros act as a text expander for quickly typing long or difficult to spell disease and drug names.
+This is 2 importable macros for [Keyboard Maestro](https://www.keyboardmaestro.com/main/) (Mac only. Windows users see below). These macros act as a text expander for quickly typing long or difficult to spell disease and drug names.
 
 1. Med Terms: These are terms based on the [USMLE content outline](https://www.usmle.org/pdfs/usmlecontentoutline.pdf). 
 2. Drug Terms: These terms are generic and brand drug names
@@ -27,3 +27,6 @@ Download this [zip file](https://github.com/AnKingMed/MedTermsList/archive/refs/
 You can suggest a Pull Request on this GitHub account! The Macro pulls the list from here as long as you have an internet connection.
 
 \*_You can also click the edit icon at the top right of the page and GitHub will automatically fork and create a Pull Request with the changes._
+
+## What if I'm a Windows users?
+Unfortunatley Keyboard Maestro doesn't work on Windows. However, we did find [this software](https://www.phraseexpress.com/download/) that works. Download the .txt files and import into Phrase Express. It will import as a folder. You can then set an "Autotext abbreviation" (i.e. `.md` or `.rx`) to the folder and have "Show in popup" checked. Doesn't work as well, but it's something
