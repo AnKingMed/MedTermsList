@@ -53,6 +53,55 @@
 							<key>ConditionListMatch</key>
 							<string>All</string>
 						</dict>
+						<key>ElseActionListDisclosed</key>
+						<false/>
+						<key>ElseActions</key>
+						<array/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>Append</key>
+								<false/>
+								<key>Destination</key>
+								<string>~/Documents/KM-RxTerms.txt</string>
+								<key>Encoding</key>
+								<string>UTF8</string>
+								<key>Format</key>
+								<string>PlainText</string>
+								<key>Format2</key>
+								<string>PlainText</string>
+								<key>MacroActionType</key>
+								<string>WriteFile</string>
+								<key>Source</key>
+								<string>Variable</string>
+								<key>Variable</key>
+								<string>PharmTerms</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>PharmTerms</string>
+									<key>VariableConditionType</key>
+									<string>Contains</string>
+									<key>VariableValue</key>
+									<string>zyrtec</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
 						<key>ElseActions</key>
 						<array>
 							<dict>
@@ -61,17 +110,19 @@
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>Path</key>
+<<<<<<< HEAD
+								<string>~/Documents/KM-RxTerms.txt</string>
+=======
 								<string>~/Documents/RxTerms.txt</string>
+>>>>>>> df31263ee208f3d3e2ecbc76dc45d0189e86dd47
 								<key>PromptUID</key>
-								<string>08A170F4-031D-48E0-B3E9-B1587C13C6EA</string>
+								<string>90E146FC-2842-4501-97D1-3D73F76FD184</string>
 								<key>Source</key>
 								<string>File</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>IfThenElse</string>
 						<key>ThenActions</key>
@@ -79,10 +130,12 @@
 							<dict>
 								<key>Destination</key>
 								<string>Clipboard</string>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>PromptUID</key>
-								<string>0643FAFE-6C72-4FF3-911E-655098377CDF</string>
+								<string>D9669205-F5DD-4A1A-9CC4-4A35F436A5D5</string>
 								<key>Source</key>
 								<string>Variable</string>
 								<key>TimeOutAbortsMacro</key>
@@ -112,9 +165,9 @@
 					</dict>
 				</array>
 				<key>CreationDate</key>
-				<real>645636508.768332</real>
+				<real>645653793.63800895</real>
 				<key>ModificationDate</key>
-				<real>645637209.66965795</real>
+				<real>645654017.88450599</real>
 				<key>Name</key>
 				<string>Pharm terms text completion popup</string>
 				<key>Triggers</key>
@@ -129,7 +182,7 @@
 					</dict>
 				</array>
 				<key>UID</key>
-				<string>2FEEAEFC-FDD8-4F59-956A-549DC1420F4E</string>
+				<string>6F0572D0-4AEC-42DE-BC4B-53F1527F6202</string>
 			</dict>
 		</array>
 		<key>Name</key>
@@ -190,6 +243,57 @@
 							<key>ConditionListMatch</key>
 							<string>All</string>
 						</dict>
+						<key>ElseActionListDisclosed</key>
+						<false/>
+						<key>ElseActions</key>
+						<array/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>Append</key>
+								<false/>
+								<key>Destination</key>
+								<string>~/Documents/KM-MedTerms.txt</string>
+								<key>Encoding</key>
+								<string>UTF8</string>
+								<key>Format</key>
+								<string>PlainText</string>
+								<key>Format2</key>
+								<string>PlainText</string>
+								<key>MacroActionType</key>
+								<string>WriteFile</string>
+								<key>Source</key>
+								<string>Variable</string>
+								<key>Variable</key>
+								<string>MedTerms</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>MedTerms</string>
+									<key>VariableConditionType</key>
+									<string>Contains</string>
+									<key>VariableValue</key>
+									<string>acute respiratory distress syndrome </string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
 						<key>ElseActions</key>
 						<array>
 							<dict>
@@ -200,7 +304,11 @@
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>Path</key>
+<<<<<<< HEAD
+								<string>~/Documents/KM-MedTerms.txt</string>
+=======
 								<string>~/Documents/MedTerms.txt</string>
+>>>>>>> df31263ee208f3d3e2ecbc76dc45d0189e86dd47
 								<key>PromptUID</key>
 								<string>382E7317-44A7-4EB4-8A9E-41A1055BE563</string>
 								<key>Source</key>
@@ -218,6 +326,8 @@
 							<dict>
 								<key>Destination</key>
 								<string>Clipboard</string>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>PromptUID</key>
@@ -253,7 +363,7 @@
 				<key>CreationDate</key>
 				<real>645634544.19432402</real>
 				<key>ModificationDate</key>
-				<real>645637216.49835098</real>
+				<real>645654040.10408795</real>
 				<key>Name</key>
 				<string>Medical terms text completion popup</string>
 				<key>Triggers</key>
