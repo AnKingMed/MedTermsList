@@ -594,6 +594,7 @@ ganglion cyst
 gangrene
 Gardner syndrome
 gastric ulcer
+gastrin
 gastrinoma
 gastroenteritis
 gastroenteritis and colitis
@@ -865,6 +866,7 @@ liver
 lochia
 Loeffler syndrome
 Lofgren syndrome
+long QT
 lower gastrointestinal bleeding
 lung
 lupus anticoagulant
@@ -899,6 +901,7 @@ marasmus
 Marburg virus
 Marfan syndrome
 McArdle disease
+mechanism
 mechanism of action
 Meckel diverticulum
 meconium aspiration syndrome
@@ -1544,12 +1547,12 @@ Vibrio cholerae
 vincristine
 vitamin A
 vitamin B1
+vitamin B12
 vitamin B2
 vitamin B3
 vitamin B6
 vitamin B7
 vitamin B9
-vitamin B12
 vitamin C
 vitamin D
 vitamin E
@@ -1574,7 +1577,19 @@ Wolff-Parkinson-White syndrome
 xeroderma pigmentosum
 Yersinia enterocolitica
 Yersinia pestis
+zafirlukast
+zanamivir
 Zellweger syndrome
 Zenker diverticulum
+Zenker's diverticulum
+zero-order elimination
+zidovudine
+Ziehl-Neelsen stain
 Zika virus
+zileuton
+zinc
+ziprasidone
+zoledronate
 Zollinger-Ellison syndrome
+zona fasciculata
+zoonotic bacteria
