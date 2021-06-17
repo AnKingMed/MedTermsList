@@ -1,11 +1,10 @@
-# Med Terms Keyboard Maestro Macro
+# Anking's Medical and Drug Terms Keyboard Maestro Macro
 
 ## What is it?
 
 This is 2 importable macros for [Keyboard Maestro](https://www.keyboardmaestro.com/main/) (Mac only). These macros act as a text expander for quickly typing long or difficult to spell disease and drug names.
 
-1. Med Terms: These are terms based on USMLE content guidelines 
--we’ve got terms based on [USMLE content outline](https://www.usmle.org/pdfs/usmlecontentoutline.pdf). 
+1. Med Terms: These are terms based on [USMLE content outline](https://www.usmle.org/pdfs/usmlecontentoutline.pdf). 
 2. Drug Terms: These terms are generic and brand drug names
 
 <p align="center">
@@ -13,16 +12,18 @@ This is 2 importable macros for [Keyboard Maestro](https://www.keyboardmaestro.c
 </p>
 
 ## How do I download it?
-Click the green "Code" button and then **download ZIP**. Unzip the files and double click the _MedTermMacros.kmmacros_ file to open it in Keyboard Maestro.
+Download this [zip file](https://github.com/AnKingMed/MedTermsList/archive/refs/heads/main.zip). Unzip the files and double click the `MedTermMacros.kmmacros` file to open it in [Keyboard Maestro](#what-is-keyboard-maestro).
 
 ## How do I use it?
-1. To use the medical terms search filter, simply type ".md" and a search bar will come up. Then you can type the search term you are looking for and suggestions will come up. You can use the use the arrow keys to select a suggestion and Enter to insert the text.
-2. To use the drug terms search filter, simply type ".rx". This will work in the same way that the medical terms search filter works
-### When used without internet connection, it will pull terms from KM-MedTerms.txt and KM-RxTerms.txt files into your documents folder (they are created with the use of this macro)
+1. To use the medical terms search filter, simply type `.md` and a search bar will come up. Then you can type the search term you are looking for and suggestions will come up. You can use the use the arrow keys (<kbd>↑</kbd><kbd>↓</kbd>) to select a suggestion and <kbd>Enter</kbd> to insert the text.
+2. To use the drug terms search filter, simply type `.rx`. This will work in the same way that the medical terms search filter works.
+
+\*_When used without internet connection, it will pull terms from `KM-MedTerms.txt` and `KM-RxTerms.txt` files from your `~/Documents` folder (they are created with the use of this macro)._
 
 ## What is Keyboard Maestro?
 20% off Keyboard Maestro discount available on  [https://www.ankingmed.com/discounts](https://www.ankingmed.com/discounts)  (non-affiliate)
 
-
 ## How do I add or change words in the list?
-You can suggest a Pull Request on this GitHub account! The Macro pulls the list from here as long as you have an internet connection
+You can suggest a Pull Request on this GitHub account! The Macro pulls the list from here as long as you have an internet connection.
+
+\*_You can also click the edit icon at the top right of the page and GitHub will automatically fork and create a Pull Request with the changes._
