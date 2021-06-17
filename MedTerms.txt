@@ -1,30 +1,83 @@
-α-fetoprotein
+A-a gradient
+AB toxin
+abacavir
 abciximab
 abdominal
+abdominal aorta
+abdominal aortic aneurysm
 abdominal pain
+abdominal wall
 abdominal wall defects
+Abducens nerve (CN VI)
+Abductor digiti minimi muscle
+Abductor pollicis brevis muscle
+Abetalipoproteinemia
 abnormal Pap smear
-abnormal uterine bleeding
+abnormal uterine bleeding (AUB)
+ABO hemolytic disease of newborn
 ABO incompatibility in newborn
 abortion
+abruptio placentae
 abscess
+abscesses
+absence seizures
+absolute risk reduction (ARR)
+abuse
+acalculia
+acalculous cholecystitis
+acanthocytes
+acanthocytosis
+acantholysis
+acanthosis
 acanthosis nigricans
+acarbose
+accessory nerve (CN XI)
+accommodation
 ACE inhibitors
 acetaminophen
+acetyl-CoA carboxylase
+acetylcholine (ACh) receptor
+acetylcholinesterase (AChE)
 acetylsalicylic acid
 achalasia
 achondroplasia
+acid maltase
+acid reflux
+acid-fast organism
+acidic amino acids
+acidosis
+acne
 acne vulgaris
 acoustic neuroma
+Acrodermatitis enteropathica
 acromegaly
+actin
+acting out
 actinic keratoses
+actinic keratosis
 Actinomyces israelii
+Actinomyces spp
+action potential
+active immunity
+acute adrenal insufficiency
+acute bacterial endocarditis
+acute chest syndrome
+acute cholangitis
+acute cholestatic hepatitis
 acute coronary syndrome
+acute cystitis
+acute disseminated (postinfectious) encephalomyelitis
 acute dystonia
 acute fatty liver of pregnancy
+acute gastritis
+acute hemolytic transfusion reactions
+acute hemorrhagic cystitis
+acute inflammation
+acute intermittent porphyria
 acute interstitial nephritis
 acute kidney injury
-Acute myelogenous leukemia (AML)
+acute mesenteric ischemia
+acute myelogenous leukemia (AML)
 acute respiratory distress syndrome (ARDS)
 acute stress disorder
 acute tubular necrosis (ATN)
@@ -41,7 +94,7 @@ adrenal incidentaloma
 adrenal insufficiency
 adrenoleukodystrophy
 adriamycin
-Adverse effects
+adverse effects
 agammaglobulinemia
 agranulocytosis
 akathisia
@@ -68,6 +121,7 @@ amenorrhea
 aminoglycosides
 amiodarone
 amnionitis
+amniotic fluid
 amphetamine
 amphotericin B
 ampulla of Vater
@@ -98,11 +152,13 @@ anoxic brain damage
 antepartum hemorrhage
 anti-NMDA receptor encephalitis
 anticardiolipin antibodies
+anticholinesterase
 antifungal agents
 antihistamines
 antineoplastic agents
 antiphospholipid syndrome
 antiplatelet drugs
+antiplatelets
 antipsychotics
 antisocial personality disorder
 antithrombin drugs
@@ -158,6 +214,7 @@ Bacillus anthracis
 bacteremia
 bacterial
 bacterial endocarditis
+bacterial peritonitis
 bacterial vaginosis
 balanitis
 barotrauma
@@ -200,7 +257,6 @@ Boerhaave syndrome
 borderline personality disorder
 Bordetella pertussis
 Borrelia burgdorferi
-Borrelia burgdorferi)
 botulism
 brachial palsy
 brachial plexus
@@ -227,15 +283,18 @@ Burkitt lymphoma
 bursitis
 C1 esterase inhibitor deficiency
 caffeine withdrawal
+calcification
 calcium channel blockers
 California encephalitis virus
 Campylobacter species
 Candida albicans
 candidiasis
 cannabis use disorder
+caput medusae
 carbon tetrachloride
 carbuncle
 carcinoid tumor
+cardiac contractility
 cardiomyopathy
 cardiomyopathy of pregnancy
 carotid artery stenosis
@@ -271,6 +330,7 @@ Chediak-Higashi disease
 chemotherapeutic
 chickenpox
 chikungunya
+child
 Chlamydia trachomatis
 Chlamydophila pneumoniae
 cholangiocarcinoma
@@ -286,6 +346,7 @@ chondromalacia
 chordae tendineae rupture
 chorioretinitis
 choroid plexus
+chromatin
 chronic bronchitis
 chronic constrictive pericarditis
 chronic granulomatous disease
@@ -310,6 +371,7 @@ Clostridium perfringens
 Clostridium tetani
 coarctation of the aorta
 cobalamin
+cocaine
 Coccidioides
 coccidioidomycosis
 common variable immunodeficiency
@@ -364,6 +426,7 @@ cystinuria
 cystitis
 cystocele
 cytomegalovirus
+cytoskeleton
 cytotoxic T lymphocytes
 dabigatran
 dacryocystitis
@@ -391,6 +454,8 @@ dissociative disorders
 diverticulitis
 diverticulosis
 Down syndrome
+drug metabolism
+drug reactions
 drug-induced gastritis
 drug-induced hepatitis
 drug-induced meningitis
@@ -464,6 +529,7 @@ erythema nodosum
 erythropoietin
 Escherichia coli
 esophageal atresia
+esophageal cancer
 esophageal perforation
 esophageal reflux
 esophagitis
@@ -472,6 +538,7 @@ essential mixed cryoglobinemia
 essential tremor
 ethambutol
 ethylene glycol
+etiology
 eustachian tube
 euthyroid sick syndrome
 euthyroid-normal thyroid function with goiter
@@ -489,6 +556,7 @@ familial Mediterranean fever
 Fanconi anemia
 Fanconi syndrome
 fat embolism
+fatty acid synthesis
 fecal incontinence
 Felty syndrome
 female infertility
@@ -509,7 +577,9 @@ folliculitis
 founder effects
 fragile X syndrome
 Francisella tularensis
+free radical
 Friedreich ataxia
+frontal lobe
 frontotemporal dementia
 frozen shoulder syndrome
 functional murmur
@@ -545,6 +615,7 @@ gestational diabetes
 gestational hypertension
 gestational trophoblastic disease
 gestational trophoblastic disease (hydatidiform mole)
+GH analogs
 Giardia
 gigantism
 Gilbert syndrome
@@ -587,6 +658,7 @@ head and neck cancer
 head circumference
 heart failure
 heart failure secondary to myocardial infarction
+heavy bleeding
 HELLP syndrome
 hemangiomas
 hematochezia
@@ -606,6 +678,7 @@ heparin-induced thrombocytopenia
 hepatic abscess
 hepatic coma
 hepatic encephalopathy
+hepatic necrosis
 hepatitis A
 hepatitis B
 hepatitis C
@@ -614,6 +687,7 @@ hepatorenal syndrome
 hereditary
 hereditary angioedema
 hereditary spherocytosis
+hernia
 herniated disc
 heroin
 herpangina
@@ -629,10 +703,12 @@ high-output heart failure
 Hirschsprung disease
 hirsutism
 histiocytosis
+histones
 Histoplasma capsulatum
 histoplasmosis
 histrionic personality disorder
 HIV nephropathy
+HLA subtype hypersensitivity
 Hodgkin disease
 holoprosencephaly
 homocysteinemia
@@ -703,6 +779,7 @@ immune reconstitution syndrome (IRS)
 immune thrombocytopenic purpura
 immunoblotting
 immunoglobulins
+immunotherapy
 impacted cerumen
 imperforate hymen
 impetigo
@@ -717,8 +794,10 @@ influenza A
 influenza virus
 inguinal
 inhalant use disorder
+inheritance
 insulinoma
 intellectual developmental disorder
+intermenstrual bleeding
 internuclear ophthalmoplegia
 interstitial cystitis
 interstitial lung disease
@@ -727,6 +806,7 @@ intestinal obstruction
 intestinal obstruction/stricture
 intestinal stricture
 intimacy
+intimate partner violence
 intoxication
 intracellular pathways
 intracerebral hemorrhage
@@ -734,6 +814,7 @@ intraductal carcinoma
 intraparenchymal hemorrhage
 intrapartum fetal distress
 intrapartum prophylaxis
+intussusception
 iridocyclitis
 iron deficiency
 irritable bowel syndrome
@@ -753,6 +834,7 @@ Kawasaki disease
 keratoconjunctivitis
 ketoacidosis
 Klebsiella pneumoniae
+Klebsiella spp
 kleptomania
 Klinefelter syndrome
 kyphoscoliosis
@@ -779,10 +861,12 @@ lichen planus
 lichen sclerosus
 Listeria monocytogenes
 lithium
+liver
 lochia
 Loeffler syndrome
 Lofgren syndrome
 lower gastrointestinal bleeding
+lung
 lupus anticoagulant
 lupus nephritis
 Lyme disease
@@ -793,6 +877,7 @@ lymphocytic choriomeningitis virus
 lymphogranuloma venereum
 Lynch syndrome
 lysosomal storage disease
+macrolides
 macrophages
 macroscopic features
 macrosomia
@@ -874,6 +959,7 @@ multiple myeloma
 multiple sclerosis
 muscle calcification and ossification
 muscle channelopathies
+muscular dystrophies
 muscular dystrophy
 MUTYH-associated polyposis
 myasthenia gravis
@@ -917,7 +1003,8 @@ neurogenic
 neurogenic bladder
 neuroleptic malignant syndrome
 neurosyphilis
-NOT AVAILABLE
+neutrophils
+Nocardia spp
 non-Hodgkin lymphoma
 non-lymphogranuloma venereum
 nonaccidental trauma
@@ -925,11 +1012,13 @@ nonalcoholic fatty liver disease
 nonbacterial thrombotic endocarditis
 nongonococcal immunologic
 normal physical examination
+NOT AVAILABLE
 nystagmus
 obesity-hypoventilation syndrome
 obsessive-compulsive disorder
 obsessive-compulsive personality disorder
 obstructive uropathy
+octreotide
 ocular open wounds
 oligohydramnios
 oliguria
@@ -944,7 +1033,9 @@ orbital fracture
 orgasmic dysfunction
 orthostatic hypotension
 Osgood-Schlatter disease
+ossification
 osteitis deformans
+osteoarthritis
 osteochondritis
 osteodystrophy
 osteogenesis imperfecta
@@ -963,10 +1054,12 @@ ovary
 overdosage
 ovulation
 oxygen consumption
+oxygen deprivation
 oxygen saturation
 Paget disease of bone
 Paget disease of breast
 pain management
+pancreatic cancer
 pancreatic cyst
 pancreatic duct obstruction
 pancreatic insufficiency
@@ -982,6 +1075,7 @@ paraesophageal (hiatal) hernia
 parainfluenza virus
 paralytic ileus
 paraneoplastic cerebellar degeneration
+paraneoplastic syndrome
 paranoid personality disorder
 paraplegia
 parasitic
@@ -1082,6 +1176,7 @@ postpartum blues
 postpartum cardiomyopathy
 postpartum hemorrhage
 postpartum sepsis
+postprandial
 PraderWilli syndrome
 precancerous neoplasm
 precocious puberty
@@ -1117,6 +1212,7 @@ prostaglandins
 prostatitis
 proteinuria
 prothrombin G20210A mutation
+proton pump inhibitors
 protozoa
 pruritus
 pseudocyst
@@ -1151,6 +1247,7 @@ quadriplegia
 rabies virus
 radiculopathies
 Ramsay-Hunt syndrome
+rapid eye movement (REM)
 Raynaud disease
 Raynaud syndrome
 reactive airway disease
@@ -1166,7 +1263,6 @@ regional enteritis
 regurgitation
 Reiter arthritis
 Reiter disease
-rapid eye movement (REM)
 renal
 renal abscess
 renal agenesis
@@ -1225,6 +1321,7 @@ right ventricular hypertrophy
 risk factors
 risk-taking behavior
 rituximab
+RLQ pain
 role confusion
 rosacea
 roseola
@@ -1234,6 +1331,7 @@ Rotor syndromes
 routine vaccination
 rubella
 rumination
+RUQ pain
 salicylates
 salivary glands
 Salmonella species
@@ -1277,7 +1375,6 @@ short cervix
 short stature
 shortness of breath
 shoulder dystocia
-syndrome of inappropriate antidiuretic hormone (SIADH)
 sialadenitis
 sick sinus syndrome
 sickle cell disease
@@ -1296,6 +1393,7 @@ slipped capital femoral epiphysis
 social phobia
 solitary pulmonary nodule
 somatic symptom disorder
+somatostatin
 somatostatinoma
 spermatocele
 spermatogenesis
@@ -1341,6 +1439,7 @@ substance-induced anxiety disorder
 substance-induced psychotic disorder
 sudden infant death syndrome (SIDS)
 supraspinatus syndrome
+syndrome of inappropriate antidiuretic hormone (SIADH)
 syringomyelia
 systemic inflammatory response syndrome (SIRS)
 systemic lupus erythematosus
@@ -1418,6 +1517,7 @@ use disorder
 uterine cancer
 vardenafil
 varicella zoster
+varicella-zoster immune globulin (VZIG)
 varicocele
 varicose veins
 vascular dementia
@@ -1459,7 +1559,6 @@ vocal cord polyp
 von Hippel-Lindau disease
 von Willebrand disease
 vulvovaginitis
-varicella-zoster immune globulin (VZIG)
 Waldenstrom macroglobulinemia
 Wegener granulomatosis
 Wernicke-Korsakoff syndrome
