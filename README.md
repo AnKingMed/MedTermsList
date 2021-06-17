@@ -4,7 +4,7 @@
 
 This is 2 importable macros for [Keyboard Maestro](https://www.keyboardmaestro.com/main/) (Mac only). These macros act as a text expander for quickly typing long or difficult to spell disease and drug names.
 
-1. Med Terms: These are terms based on [USMLE content outline](https://www.usmle.org/pdfs/usmlecontentoutline.pdf). 
+1. Med Terms: These are terms based on the [USMLE content outline](https://www.usmle.org/pdfs/usmlecontentoutline.pdf). 
 2. Drug Terms: These terms are generic and brand drug names
 
 <p align="center">
