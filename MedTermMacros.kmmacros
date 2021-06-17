@@ -61,7 +61,7 @@
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>Path</key>
-								<string>~/Documents/GitHub/MedTermsList/RxTerms.txt</string>
+								<string>~/Documents/RxTerms.txt</string>
 								<key>PromptUID</key>
 								<string>08A170F4-031D-48E0-B3E9-B1587C13C6EA</string>
 								<key>Source</key>
@@ -200,7 +200,7 @@
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>Path</key>
-								<string>~/Documents/GitHub/MedTermsList/MedTerms.txt</string>
+								<string>~/Documents/MedTerms.txt</string>
 								<key>PromptUID</key>
 								<string>382E7317-44A7-4EB4-8A9E-41A1055BE563</string>
 								<key>Source</key>
