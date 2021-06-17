@@ -8,7 +8,7 @@ This is 2 importable macros for [Keyboard Maestro](https://www.keyboardmaestro.c
 -we’ve got terms based on [USMLE content outline](https://www.usmle.org/pdfs/usmlecontentoutline.pdf). 
 2. Drug Terms: These terms are generic and brand drug names
 
-![enter image description here](https://raw.githubusercontent.com/AnKingMed/MedTermsList/main/KM%20macro.gif)
+<center>![enter image description here](https://raw.githubusercontent.com/AnKingMed/MedTermsList/main/KM%20macro.gif)</center>
 
 ## How do I download it?
 Click the green "Code" button and then **download ZIP**. Unzip the files and double click the _MedTermMacros.kmmacros_ file to open it in Keyboard Maestro.
