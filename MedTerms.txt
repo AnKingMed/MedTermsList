@@ -917,6 +917,7 @@ neurogenic
 neurogenic bladder
 neuroleptic malignant syndrome
 neurosyphilis
+NOT AVAILABLE
 non-Hodgkin lymphoma
 non-lymphogranuloma venereum
 nonaccidental trauma
