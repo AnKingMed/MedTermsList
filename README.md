@@ -18,7 +18,7 @@ Click the green "Code" button and then **download ZIP**. Unzip the files and dou
 ## How do I use it?
 1. To use the medical terms search filter, simply type ".md" and a search bar will come up. Then you can type the search term you are looking for and suggestions will come up. You can use the use the arrow keys to select a suggestion and Enter to insert the text.
 2. To use the drug terms search filter, simply type ".rx". This will work in the same way that the medical terms search filter works
-### To use without internet connection: Place the MedTerms.txt and RxTerms.txt files into your documents folder. 
+### When used without internet connection, it will pull terms from KM-MedTerms.txt and KM-RxTerms.txt files into your documents folder (they are created with the use of this macro)
 
 ## What is Keyboard Maestro?
 20% off Keyboard Maestro discount available on  [https://www.ankingmed.com/discounts](https://www.ankingmed.com/discounts)  (non-affiliate)
