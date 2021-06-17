@@ -300,11 +300,7 @@
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>Path</key>
-<<<<<<< HEAD
 								<string>~/Documents/KM-MedTerms.txt</string>
-=======
-								<string>~/Documents/MedTerms.txt</string>
->>>>>>> df31263ee208f3d3e2ecbc76dc45d0189e86dd47
 								<key>PromptUID</key>
 								<string>382E7317-44A7-4EB4-8A9E-41A1055BE563</string>
 								<key>Source</key>
