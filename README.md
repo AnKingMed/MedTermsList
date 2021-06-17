@@ -24,7 +24,7 @@ Download this [zip file](https://github.com/AnKingMed/MedTermsList/archive/refs/
 20% off Keyboard Maestro discount available on  [https://www.ankingmed.com/discounts](https://www.ankingmed.com/discounts)  (non-affiliate)
 
 ## How do I add or change words in the list?
-You can suggest a Pull Request on this GitHub account! The Macro pulls the list from here as long as you have an internet connection.
+You can suggest a Pull Request on this GitHub account! If you search a term that does not appear, search `NOT AVAILABLE` and it will bring you to the GitHub file. The Macro pulls the list from here as long as you have an internet connection.
 
 \*_You can also click the edit icon at the top right of the page and GitHub will automatically fork and create a Pull Request with the changes._
 
