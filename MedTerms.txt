@@ -1,3 +1,4 @@
+α-fetoprotein
 abciximab
 abdominal
 abdominal pain
@@ -299,7 +300,9 @@ circumcision
 cirrhosis
 cisplatin
 claudication
+cleft lip
 cleft lip and palate
+cleft palate
 clostridial myonecrosis
 Clostridium botulinum
 Clostridium difficile
@@ -370,6 +373,7 @@ degenerative osteoarthritis
 delusional disorder
 dengue fever
 dental caries
+dependence
 dependent personality disorder
 dermatitis herpetiformis
 dermatomycoses
@@ -470,7 +474,7 @@ ethambutol
 ethylene glycol
 eustachian tube
 euthyroid sick syndrome
-euthyroid-normal thyroid function with goiter)
+euthyroid-normal thyroid function with goiter
 exanthema
 exanthema subitum
 expenditure
@@ -613,7 +617,9 @@ hereditary spherocytosis
 herniated disc
 heroin
 herpangina
+herpes simplex type 1
 herpes simplex type 1 & type 2
+herpes simplex type 2
 herpes simplex virus
 herpes zoster
 herpesvirus
@@ -645,7 +651,7 @@ hydrocele
 hydrocephalus
 hydronephrosis
 hydroxychloroquine
-hyper IgM syndrome
+Hyper IgM syndrome
 hyperaldosteronism
 hypercalcemia
 hypercalcemia of malignancy
@@ -717,8 +723,11 @@ internuclear ophthalmoplegia
 interstitial cystitis
 interstitial lung disease
 interstitial pneumonia
+intestinal obstruction
 intestinal obstruction/stricture
-intimacy vs isolation
+intestinal stricture
+intimacy
+intoxication
 intracellular pathways
 intracerebral hemorrhage
 intraductal carcinoma
@@ -732,6 +741,7 @@ irritable colon
 irritant contact dermatitis
 Ischemic heart disease
 islet cell tumor
+isolation
 isoniazid
 Jarisch-Herxheimer reaction
 joint effusion
@@ -924,6 +934,7 @@ oligohydramnios
 oliguria
 omalizumab
 onychomycosis
+oophoritis
 ophthalmic gonorrhea
 oppositional defiant disorder
 optic neuritis
@@ -971,7 +982,7 @@ parainfluenza virus
 paralytic ileus
 paraneoplastic cerebellar degeneration
 paranoid personality disorder
-paraplegia and quadriplegia
+paraplegia
 parasitic
 parent-child relational problems
 Parkinson disease
@@ -1084,6 +1095,8 @@ premenopausal menorrhagia
 premenstrual dysphoric disorder
 premenstrual syndrome
 prenatal radiation exposure
+prenatal risk assessment
+prenatal risk prevention
 primary ascending cholangitis
 primary biliary cholangitis
 primary biliary cirrhosis
@@ -1133,6 +1146,7 @@ pyonephrosis
 pyridoxine
 pyromania
 pyruvate kinase deficiency
+quadriplegia
 rabies virus
 radiculopathies
 Ramsay-Hunt syndrome
@@ -1151,16 +1165,17 @@ regional enteritis
 regurgitation
 Reiter arthritis
 Reiter disease
-REM
+rapid eye movement (REM)
 renal
 renal abscess
 renal agenesis
 renal artery stenosis
 renal calculi
-renal calculus/calculi
+renal calculus
 renal cell carcinoma
+renal disease
 renal dysplasia
-renal failure/renal disease
+renal failure
 renal hypoplasia
 renal infarction
 renal insufficiency
@@ -1191,12 +1206,13 @@ retinoblastoma
 retrospection
 Rett syndrome
 reuptake
+Rh incompatibility
 Rh incompatibility/anaphylaxis
 Rh isoimmunization affecting management of mother
 Rh isoimmunization supervision of normal pregnancy
-Rh screening prenatal risk assessment/prevention
+Rh screening
 rhabdomyolysis
-rhabdosarcoma
+rhabdomyosarcoma
 rheumatic fever
 rheumatic heart disease
 rheumatoid arthritis
@@ -1220,7 +1236,7 @@ rumination
 salicylates
 salivary glands
 Salmonella species
-salpingitis and oophoritis
+salpingitis
 sarcoidosis
 scarlet fever
 Schistosoma
@@ -1260,7 +1276,7 @@ short cervix
 short stature
 shortness of breath
 shoulder dystocia
-SIADH
+syndrome of inappropriate antidiuretic hormone (SIADH)
 sialadenitis
 sick sinus syndrome
 sickle cell disease
@@ -1293,6 +1309,8 @@ spirochetal
 spironolactone
 splenic abscess
 splenic infarct
+splenic laceration
+splenic rupture
 splenic rupture/laceration
 spondylitis
 spondylolisthesis
@@ -1395,7 +1413,7 @@ urethral diverticulum
 urinary incontinence
 urinary tract infection
 urticaria
-use disorder/intoxication/dependence/withdrawal
+use disorder
 uterine cancer
 vardenafil
 varicella zoster
@@ -1424,13 +1442,13 @@ vestibular neuritis
 Vibrio cholerae
 vincristine
 vitamin A
-vitamin B
 vitamin B1
-vitamin B12
+vitamin B2
 vitamin B3
 vitamin B6
 vitamin B7
 vitamin B9
+vitamin B12
 vitamin C
 vitamin D
 vitamin E
@@ -1440,7 +1458,7 @@ vocal cord polyp
 von Hippel-Lindau disease
 von Willebrand disease
 vulvovaginitis
-VZIG
+varicella-zoster immune globulin (VZIG)
 Waldenstrom macroglobulinemia
 Wegener granulomatosis
 Wernicke-Korsakoff syndrome
@@ -1451,6 +1469,7 @@ wide complex tachycardia
 Wilms tumor/nephroblastoma
 Wilson disease
 Wiskott-Aldrich syndrome
+withdrawal
 Wolff-Parkinson-White syndrome
 xeroderma pigmentosum
 Yersinia enterocolitica
@@ -1459,4 +1478,3 @@ Zellweger syndrome
 Zenker diverticulum
 Zika virus
 Zollinger-Ellison syndrome
-α-fetoprotein
