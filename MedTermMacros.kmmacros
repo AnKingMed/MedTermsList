@@ -110,11 +110,7 @@
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>Path</key>
-<<<<<<< HEAD
 								<string>~/Documents/KM-RxTerms.txt</string>
-=======
-								<string>~/Documents/RxTerms.txt</string>
->>>>>>> df31263ee208f3d3e2ecbc76dc45d0189e86dd47
 								<key>PromptUID</key>
 								<string>90E146FC-2842-4501-97D1-3D73F76FD184</string>
 								<key>Source</key>
