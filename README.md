@@ -29,4 +29,4 @@ You can suggest a Pull Request on this GitHub account! The Macro pulls the list 
 \*_You can also click the edit icon at the top right of the page and GitHub will automatically fork and create a Pull Request with the changes._
 
 ## What if I'm a Windows users?
-Unfortunatley Keyboard Maestro doesn't work on Windows. However, we did find [this software](https://www.phraseexpress.com/download/) that works. Download the .txt files and import into Phrase Express. It will import as a folder. You can then set an "Autotext abbreviation" (i.e. `.md` or `.rx`) to the folder and have "Show in popup" checked. Doesn't work as well, but it's something
+Unfortunately, Keyboard Maestro doesn't work on Windows. However, we did find [this software](https://www.phraseexpress.com/download/) that works. Download the .txt files and import into Phrase Express. It will import as a folder. You can then set an "Autotext abbreviation" (i.e. `.md` or `.rx`) to the folder and have "Show in popup" checked. Doesn't work as well, but it's something
