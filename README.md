@@ -9,7 +9,7 @@ This is 2 importable macros for [Keyboard Maestro](https://www.keyboardmaestro.c
 2. Drug Terms: These terms are generic and brand drug names
 
 <p align="center">
-  ![enter image description here](https://raw.githubusercontent.com/AnKingMed/MedTermsList/main/KM%20macro.gif)
+  <img src-"https://raw.githubusercontent.com/AnKingMed/MedTermsList/main/KM%20macro.gif">
 </p>
 
 ## How do I download it?
