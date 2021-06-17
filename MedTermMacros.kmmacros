@@ -70,6 +70,8 @@
 								<true/>
 							</dict>
 						</array>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>IfThenElse</string>
 						<key>ThenActions</key>
@@ -97,8 +99,6 @@
 							<dict>
 								<key>Destination</key>
 								<string>Clipboard</string>
-								<key>IsDisclosed</key>
-								<false/>
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>PromptUID</key>
@@ -109,18 +109,62 @@
 								<true/>
 								<key>Variable</key>
 								<string>PharmTerms</string>
+								<key>WindowTitle</key>
+								<string>Select NOT AVAILABLE to upload term on GitHub</string>
+								<key>WindowWidth</key>
+								<string>Wide</string>
 							</dict>
 						</array>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
 					<dict>
-						<key>Action</key>
-						<string>Paste</string>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ClipboardConditionType</key>
+									<string>Contains</string>
+									<key>ClipboardText</key>
+									<string>NOT AVAILABLE</string>
+									<key>ConditionType</key>
+									<string>Clipboard</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>Action</key>
+								<string>Paste</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>CutCopyPaste</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
 						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
-						<string>CutCopyPaste</string>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>IsDefaultApplication</key>
+								<true/>
+								<key>MacroActionType</key>
+								<string>OpenURL</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>URL</key>
+								<string>https://github.com/AnKingMed/MedTermsList/blob/main/RxTerms.txt</string>
+							</dict>
+						</array>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
@@ -134,7 +178,7 @@
 				<key>CreationDate</key>
 				<real>645653793.63800895</real>
 				<key>ModificationDate</key>
-				<real>645655569.23068404</real>
+				<real>645660950.45949602</real>
 				<key>Name</key>
 				<string>Pharm terms text completion popup</string>
 				<key>Triggers</key>
@@ -227,10 +271,10 @@
 								<string>File</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
+								<key>WindowWidth</key>
+								<string>Wide</string>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>IfThenElse</string>
 						<key>ThenActions</key>
@@ -258,8 +302,6 @@
 							<dict>
 								<key>Destination</key>
 								<string>Clipboard</string>
-								<key>IsDisclosed</key>
-								<false/>
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>PromptUID</key>
@@ -270,18 +312,62 @@
 								<true/>
 								<key>Variable</key>
 								<string>MedTerms</string>
+								<key>WindowTitle</key>
+								<string>Select NOT AVAILABLE to upload term on GitHub</string>
+								<key>WindowWidth</key>
+								<string>Wide</string>
 							</dict>
 						</array>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
 					<dict>
-						<key>Action</key>
-						<string>Paste</string>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ClipboardConditionType</key>
+									<string>Contains</string>
+									<key>ClipboardText</key>
+									<string>NOT AVAILABLE</string>
+									<key>ConditionType</key>
+									<string>Clipboard</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>Action</key>
+								<string>Paste</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>CutCopyPaste</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
 						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
-						<string>CutCopyPaste</string>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>IsDefaultApplication</key>
+								<true/>
+								<key>MacroActionType</key>
+								<string>OpenURL</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>URL</key>
+								<string>https://github.com/AnKingMed/MedTermsList/blob/main/MedTerms.txt</string>
+							</dict>
+						</array>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
@@ -295,7 +381,7 @@
 				<key>CreationDate</key>
 				<real>645634544.19432402</real>
 				<key>ModificationDate</key>
-				<real>645655575.47800803</real>
+				<real>645660890.88406098</real>
 				<key>Name</key>
 				<string>Medical terms text completion popup</string>
 				<key>Triggers</key>
