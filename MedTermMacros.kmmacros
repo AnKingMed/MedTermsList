@@ -70,8 +70,6 @@
 								<true/>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>IfThenElse</string>
 						<key>ThenActions</key>
@@ -99,6 +97,8 @@
 							<dict>
 								<key>Destination</key>
 								<string>Clipboard</string>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>PromptUID</key>
@@ -109,10 +109,6 @@
 								<true/>
 								<key>Variable</key>
 								<string>PharmTerms</string>
-								<key>WindowTitle</key>
-								<string>Select NOT AVAILABLE to upload term on GitHub</string>
-								<key>WindowWidth</key>
-								<string>Wide</string>
 							</dict>
 						</array>
 						<key>TimeOutAbortsMacro</key>
@@ -178,7 +174,7 @@
 				<key>CreationDate</key>
 				<real>645653793.63800895</real>
 				<key>ModificationDate</key>
-				<real>645660950.45949602</real>
+				<real>645661453.13274896</real>
 				<key>Name</key>
 				<string>Pharm terms text completion popup</string>
 				<key>Triggers</key>
@@ -302,6 +298,8 @@
 							<dict>
 								<key>Destination</key>
 								<string>Clipboard</string>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>PromptWithList</string>
 								<key>PromptUID</key>
@@ -312,10 +310,6 @@
 								<true/>
 								<key>Variable</key>
 								<string>MedTerms</string>
-								<key>WindowTitle</key>
-								<string>Select NOT AVAILABLE to upload term on GitHub</string>
-								<key>WindowWidth</key>
-								<string>Wide</string>
 							</dict>
 						</array>
 						<key>TimeOutAbortsMacro</key>
@@ -381,7 +375,7 @@
 				<key>CreationDate</key>
 				<real>645634544.19432402</real>
 				<key>ModificationDate</key>
-				<real>645660890.88406098</real>
+				<real>645661437.93033004</real>
 				<key>Name</key>
 				<string>Medical terms text completion popup</string>
 				<key>Triggers</key>
