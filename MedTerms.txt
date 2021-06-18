@@ -114,6 +114,9 @@ alopecia
 alpha blockers
 alpha-1 antitrypsin deficiency
 Alport syndrome
+alveolar
+alveolar ventilation
+alveoli
 Alzheimer disease
 amaurosis fugax
 amblyopia
@@ -140,6 +143,7 @@ aneurysm
 angina pectoris
 angiodysplasia
 angiogenesis
+angiosarcomas
 angiotensin II
 anisocoria
 ankylosing spondylitis
@@ -151,9 +155,11 @@ anovulation
 anoxic brain damage
 antepartum hemorrhage
 anti-NMDA receptor encephalitis
+antianginal therapy
 anticardiolipin antibodies
 anticholinesterase
 antifungal agents
+antigenic drift
 antihistamines
 antineoplastic agents
 antiphospholipid syndrome
@@ -166,12 +172,14 @@ antithrombin III
 anuria
 anus
 anxiety disorders
+aortic dissection
 aphthous ulcers
 aplastic anemia
 apparent life-threatening event
 appendages
 appendicitis
 arboviruses
+area postrema
 arterial embolus
 arterial embolus/thrombosis
 arterial thrombosis
@@ -209,6 +217,7 @@ avoidant personality disorder
 avulsion
 azathioprine
 azotemia
+B-cell disorders
 babesiosis
 Bacillus anthracis
 bacteremia
@@ -217,7 +226,10 @@ bacterial endocarditis
 bacterial peritonitis
 bacterial vaginosis
 balanitis
+bamboo spine
+baroreceptors
 barotrauma
+Barr body
 Barrett esophagus
 Bartholin gland
 Bartholin gland abscess
@@ -240,9 +252,14 @@ bicornuate uterus
 bile duct obstruction
 bile salts
 biliary atresia
+biliary colic
+bilious
 binge-eating disorder
+biofilm
+biofilm production
 biophysical profile
 bipolar disorder
+Bird’s beak sign
 birth asphyxia syndrome
 bladder rupture
 Blastomyces dermatitidis
@@ -254,9 +271,12 @@ blind loop syndrome
 blood-brain barrier
 body dysmorphic disorder
 Boerhaave syndrome
+bone within a bone appearance
+bones
 borderline personality disorder
 Bordetella pertussis
 Borrelia burgdorferi
+Borrelia spp
 botulism
 brachial palsy
 brachial plexus
@@ -284,10 +304,12 @@ bursitis
 C1 esterase inhibitor deficiency
 caffeine withdrawal
 calcification
+calcitriol
 calcium channel blockers
 California encephalitis virus
 Campylobacter species
 Candida albicans
+Candida spp
 candidiasis
 cannabis use disorder
 caput medusae
@@ -295,6 +317,7 @@ carbon tetrachloride
 carbuncle
 carcinoid tumor
 cardiac contractility
+cardiac glycoside
 cardiomyopathy
 cardiomyopathy of pregnancy
 carotid artery stenosis
@@ -302,6 +325,7 @@ carotid sinus hypersensitivity
 carpal tunnel syndrome
 cat scratch disease
 cataplexy
+cataract
 cauda equina syndrome
 cauliflower ear
 celiac disease
@@ -327,6 +351,7 @@ chalazion
 chancroid
 Charcot-Marie-Tooth disease
 Chediak-Higashi disease
+chemoreceptors
 chemotherapeutic
 chickenpox
 chikungunya
@@ -351,6 +376,7 @@ chronic bronchitis
 chronic constrictive pericarditis
 chronic granulomatous disease
 chronic kidney disease
+chronic mesenteric ischemia
 chronic obstructive pulmonary disease (COPD)
 chronic pelvic pain syndrome
 Churg-Strauss syndrome
@@ -374,6 +400,9 @@ cobalamin
 cocaine
 Coccidioides
 coccidioidomycosis
+Codman triangle
+Coffee bean sign
+Coin lesion
 common variable immunodeficiency
 community-acquired pneumonia
 compartment syndrome
@@ -387,17 +416,20 @@ congenital diaphragmatic hernia
 congenital hypothyroidism
 congenital malformations
 congenital nevi
+congenital rubella
 congestive heart failure
 conjunctivitis
 constipation
 constitutional delay
 contraception
+contractility
 contractures
 conversion disorder
 cor pulmonale
 cord prolapse
 corneal abrasion
 coronary artery spasm
+coronary steal syndrome
 coronavirus
 corticoadrenal insufficiency
 costochondritis
@@ -406,7 +438,9 @@ coxsackie virus
 coxsackievirus
 cranial nerve injury
 craniopharyngioma
+craniopharyngiomas
 Creutzfeldt-Jakob disease
+cri-du-chat syndrome
 Crigler-Najjar syndrome
 Crohn disease
 croup
@@ -415,6 +449,7 @@ Cryptococcus neoformans
 Cryptosporidium
 cubital tunnel syndrome
 Cushing syndrome
+cutaneous flushing
 cutaneous larva migrans
 cutaneous leishmaniasis infestations
 cutaneous T-cell lymphoma
@@ -426,14 +461,18 @@ cystinuria
 cystitis
 cystocele
 cytomegalovirus
+cytoskeletal element
 cytoskeleton
 cytotoxic T lymphocytes
 dabigatran
 dacryocystitis
+danazol
 deep venous thrombosis
 defecation
+deficiency
 degenerative osteoarthritis
 delusional disorder
+demyelinating disorders
 dengue fever
 dental caries
 dependence
@@ -446,6 +485,8 @@ developmental delay
 developmental dysplasia of the hip
 diabetes insipidus
 diabetes mellitus
+diarrhea
+diastole
 diastolic dysfunction
 DiGeorge syndrome
 disc degeneration
@@ -454,6 +495,7 @@ dissociative disorders
 diverticulitis
 diverticulosis
 Down syndrome
+drainage
 drug metabolism
 drug reactions
 drug-induced gastritis
@@ -464,9 +506,11 @@ drug-induced neuropathy
 drug-induced pancreatitis
 drug-induced parkinsonism
 drug-induced priapism
+drug-related
 drug-seeking behavior
 drugs affecting the immune system (eg
 drugs inducing polydipsia
+dry beriberi
 Dubin-Johnson syndrome
 Duchenne muscular dystrophy
 duodenal ulcer
@@ -482,11 +526,14 @@ dysproteinemias
 dysthymia
 dystonia
 dysuria
+early diastole
 Eastern equine encephalitis virus
 eating disorder
 eating disorders
 Ebola virus
 eccrine function
+ECG
+ECG tracing
 echovirus
 ectatic cerebral vessels
 ectopic pregnancy
@@ -509,6 +556,8 @@ endometriosis
 endophthalmitis
 endothelium
 Entamoeba histolytica
+enterococci
+Enterococcus spp.
 enterohepatic circulation
 enterovirus
 enthesopathy of spine
@@ -519,7 +568,10 @@ epidermolysis bullosa
 epididymal cyst
 epididymitis
 epiglottitis
+epilepsy therapy
 epistaxis
+epithelial
+epithelial histology
 Epstein-Barr virus
 erectile dysfunction
 erysipelas
@@ -544,6 +596,7 @@ euthyroid sick syndrome
 euthyroid-normal thyroid function with goiter
 exanthema
 exanthema subitum
+exotoxin
 expenditure
 external cephalic maneuver
 extracellular products
@@ -551,7 +604,9 @@ extrapyramidal effects
 Fabry disease
 factitious disorder
 Factor V Leiden
+facultative intracellular organisms
 familial adenomatous polyposis
+familial dyslipidemias
 familial Mediterranean fever
 Fanconi anemia
 Fanconi syndrome
@@ -572,8 +627,10 @@ fibromuscular dysplasia
 fibromyalgia
 finasteride
 Fitz-Hugh–Curtis syndrome
+focal necrotizing
 folate deficiency
 folliculitis
+food poisoning
 founder effects
 fragile X syndrome
 Francisella tularensis
@@ -582,8 +639,10 @@ Friedreich ataxia
 frontal lobe
 frontotemporal dementia
 frozen shoulder syndrome
+fructose intolerance
 functional murmur
 furosemide
+G6PD deficiency
 gadolinium
 galactorrhea
 gallbladder
@@ -604,8 +663,10 @@ gastrointestinal obstruction
 gastrointestinal stromal tumors
 gastroparesis
 gender dysphoria
+general features
 generalized anxiety disorder
 generalized tonic-clonic seizure
+genetic drift
 genetic screening
 genital herpes
 genital warts
@@ -643,9 +704,11 @@ granulomatous enterocolitis
 granulomatous pyelonephritis
 Graves disease
 grief response
+griseofulvin
 group A Streptococcus
 growth
 growth hormone deficiency
+guanosine analogs
 Guillain-Barré syndrome
 guns
 gynecomastia
@@ -659,6 +722,7 @@ head and neck cancer
 head circumference
 heart failure
 heart failure secondary to myocardial infarction
+heart murmurs
 heavy bleeding
 HELLP syndrome
 hemangiomas
@@ -675,6 +739,7 @@ hemorrhagic fever
 hemorrhoids
 hemothorax
 Henoch-Schönlein purpura
+heparin
 heparin-induced thrombocytopenia
 hepatic abscess
 hepatic coma
@@ -698,7 +763,9 @@ herpes simplex type 2
 herpes simplex virus
 herpes zoster
 herpesvirus
+HHV-3
 hidradenitis suppurativa
+high altitude
 high-altitude sickness
 high-output heart failure
 Hirschsprung disease
@@ -771,6 +838,7 @@ hypothalamic-pituitary-gonadal axis
 hypothermia
 hypothyroidism
 hypoventilation
+hypoxic stroke
 ichthyosis
 idiopathic intracranial hypertension
 IgA nephropathy
@@ -778,7 +846,13 @@ illness anxiety disorder
 immotile cilia syndrome
 immune reconstitution syndrome (IRS)
 immune thrombocytopenic purpura
+immunity
 immunoblotting
+immunocompromised
+immunocompromised patients
+immunodeficiency
+immunodeficient patients
+immunoglobulin A
 immunoglobulins
 immunotherapy
 impacted cerumen
@@ -796,6 +870,7 @@ influenza virus
 inguinal
 inhalant use disorder
 inheritance
+innervation
 insulinoma
 intellectual developmental disorder
 intermenstrual bleeding
@@ -832,6 +907,8 @@ juvenile papillomatosis
 Kaposi sarcoma
 Kartagener syndrome
 Kawasaki disease
+keloid
+keratinocytes
 keratoconjunctivitis
 ketoacidosis
 Klebsiella pneumoniae
@@ -842,8 +919,11 @@ kyphoscoliosis
 labyrinthitis
 lactose intolerance
 Langerhans cell histiocytosis
+large-vessel
 laryngomalacia
 laryngotracheitis
+late diastole
+lead poisoning
 left ventricular hypertrophy
 Legg-Calvé-Perthes disease
 Legionella
@@ -854,6 +934,7 @@ leishmaniasis
 Leptospira
 Leptospira interrogans
 leptospirosis
+leukemias
 leukemoid reaction
 leukocyte adhesion deficiency
 leukoplakia
@@ -872,8 +953,12 @@ lung
 lupus anticoagulant
 lupus nephritis
 Lyme disease
+lymph
+lymph node
 lymphadenitis
 lymphangitis
+lymphatic
+lymphatic drainage
 lymphedema
 lymphocytic choriomeningitis virus
 lymphogranuloma venereum
@@ -885,6 +970,7 @@ macroscopic features
 macrosomia
 macular degeneration
 major depressive disorder
+malabsorption
 malaria
 male genitalia
 male pattern baldness
@@ -901,20 +987,25 @@ marasmus
 Marburg virus
 Marfan syndrome
 McArdle disease
+measles
 mechanism
 mechanism of action
 Meckel diverticulum
 meconium aspiration syndrome
 mediastinitis
 mediastinum
+medium-vessel
 medulloblastoma
 melioidosis
 membrane attack complex deficiency
 MEN 1
 MEN 2A
 MEN 2B
+MEN syndrome
 meningitis
 meningococcemia
+meningococci
+Menkes disease
 menstrual cycle
 mesenteric ischemia
 mesothelioma
@@ -926,20 +1017,27 @@ metabolic proficiency
 metabolic syndrome
 methamphetamine
 methanol
+methemoglobin
 methemoglobinemia
 methotrexate
 metronidazole
 microcephaly
 microcirculation
 microscopic colitis
+microtubules
 micturition
+midgut
 mild cognitive impairment
 mild neurocognitive disorder
+milestone
 miliary tuberculosis
 Miller Fisher syndrome
 minimal change disease
+miningococci
 minoxidil
+minute ventilation
 Mirizzi syndrome
+mirtazapine
 mitochondrial myopathies
 mitral
 mitral valve dysfunction
@@ -951,7 +1049,11 @@ monoclonal antibodies
 monoclonal gammopathy of unknown significance (MGUS)
 mononeuritis
 Moraxella catarrhalis
+morbidity
 morning-after pill
+mortality
+motor neuron signs
+MRSA
 mucocutaneous
 mucopolysaccharidoses
 mucosal immunity
@@ -982,6 +1084,7 @@ myofascial pain syndrome
 Ménière disease
 müllerian agenesis
 Naegleria fowleri
+naked (nonenveloped) RNA viruses
 narcissistic personality disorder
 narcolepsy
 nasal polyps
@@ -989,6 +1092,7 @@ nasopharyngitis
 natural killer cells
 necrotizing enterocolitis
 necrotizing fasciitis
+negative-strand RNA viruses (-ssRNA viruses)
 Neisseria gonorrhoeae
 Neisseria meningitidis
 neonatal acne
@@ -997,26 +1101,33 @@ neonatal conjunctivitis
 neonatal hydrocele
 neonatal hypoglycemia
 neoplasm
+neoplastic
+nephroblastoma
 nephrolithiasis
 nephrosclerosis
 nephrotic syndrome
 neural tube defects
+neuroblastomas
 neurofibromatosis
 neurogenic
 neurogenic bladder
 neuroleptic malignant syndrome
 neurosyphilis
 neutrophils
+nitrates
 Nocardia spp
 non-Hodgkin lymphoma
 non-lymphogranuloma venereum
+non-neoplastic
 nonaccidental trauma
 nonalcoholic fatty liver disease
 nonbacterial thrombotic endocarditis
 nongonococcal immunologic
+noninflammatory
 normal physical examination
 NOT AVAILABLE
 nystagmus
+nystatin
 obesity-hypoventilation syndrome
 obsessive-compulsive disorder
 obsessive-compulsive personality disorder
@@ -1026,6 +1137,8 @@ ocular open wounds
 oligohydramnios
 oliguria
 omalizumab
+onchocerca
+oncogenicity
 onychomycosis
 oophoritis
 ophthalmic gonorrhea
@@ -1034,6 +1147,7 @@ optic neuritis
 oral contraceptives
 orbital fracture
 orgasmic dysfunction
+orlistat
 orthostatic hypotension
 Osgood-Schlatter disease
 ossification
@@ -1055,6 +1169,7 @@ ovarian failure
 ovarian torsion
 ovary
 overdosage
+overuse injury
 ovulation
 oxygen consumption
 oxygen deprivation
@@ -1062,6 +1177,7 @@ oxygen saturation
 Paget disease of bone
 Paget disease of breast
 pain management
+palmar
 pancreatic cancer
 pancreatic cyst
 pancreatic duct obstruction
@@ -1096,6 +1212,7 @@ pathologic fracture
 pelvic inflammatory disease
 pemphigoid urticaria
 pemphigus
+pencil-in-cup
 penetrating chest wounds
 penicillin
 penile fracture
@@ -1120,16 +1237,19 @@ perniosis
 peroneal tunnel syndrome
 persistent depressive disorder
 personality traits
+pertussis toxin
 Peutz-Jeghers syndrome
 Peyronie disease
 phantom limb pain
 pharmacodynamics
 pharmacogenetics
 pharmacokinetics
+pharyngeal arch derivation
 pharyngitis
 phenylketonuria
 pheochromocytoma
 phimosis
+phobias
 phobic disorders
 phocomelia
 phosphorus
@@ -1153,6 +1273,7 @@ Pneumocystis jirovecii
 pneumomediastinum
 pneumonitis
 pneumothorax
+poliomyelitis
 poliovirus
 polyangiitis
 polyarteritis nodosa
@@ -1180,6 +1301,8 @@ postpartum cardiomyopathy
 postpartum hemorrhage
 postpartum sepsis
 postprandial
+posttussive
+PPSV23
 PraderWilli syndrome
 precancerous neoplasm
 precocious puberty
@@ -1196,6 +1319,7 @@ premenstrual syndrome
 prenatal radiation exposure
 prenatal risk assessment
 prenatal risk prevention
+pressure-volume loops
 primary ascending cholangitis
 primary biliary cholangitis
 primary biliary cirrhosis
@@ -1218,6 +1342,7 @@ prothrombin G20210A mutation
 proton pump inhibitors
 protozoa
 pruritus
+pseudoaneurysm
 pseudocyst
 pseudogout
 pseudomembranous colitis
@@ -1238,6 +1363,7 @@ pulmonary osteoarthropathy
 pulmonary sequestration
 pulmonary tuberculosis
 pulmonary vascular disorders
+punched out bone lesions
 pure sensory neuropathy
 pyelonephritis
 pyloric stenosis
@@ -1245,6 +1371,7 @@ pyoderma gangrenosum
 pyonephrosis
 pyridoxine
 pyromania
+pyruvate dehydrogenase complex
 pyruvate kinase deficiency
 quadriplegia
 rabies virus
@@ -1259,7 +1386,10 @@ reactive attachment disorder
 rectal prolapse
 rectocele
 rectum
+red blood cell (RBC)
+red blood cells (RBCs)
 refractive disorders
+refractive errors
 refractory
 regeneration
 regional enteritis
@@ -1307,9 +1437,7 @@ retrospection
 Rett syndrome
 reuptake
 Rh incompatibility
-Rh incompatibility/anaphylaxis
-Rh isoimmunization affecting management of mother
-Rh isoimmunization supervision of normal pregnancy
+Rh isoimmunization
 Rh screening
 rhabdomyolysis
 rhabdomyosarcoma
@@ -1319,6 +1447,7 @@ rheumatoid arthritis
 rhinitis
 rhinoviruses
 rib
+rickets
 rickettsiosis (Rocky Mountain spotted fever [Rickettsia rickettsii])
 right ventricular hypertrophy
 risk factors
@@ -1335,11 +1464,14 @@ routine vaccination
 rubella
 rumination
 RUQ pain
+saccular aneurysms
 salicylates
 salivary glands
 Salmonella species
+Salmonella typhi
 salpingitis
 sarcoidosis
+scar/keloid formation
 scarlet fever
 Schistosoma
 schistosomiasis
@@ -1382,6 +1514,7 @@ sialadenitis
 sick sinus syndrome
 sickle cell disease
 sideroblastic anemia
+sigmoid
 sildenafil
 silicosis
 silo-filler's lung
@@ -1393,8 +1526,12 @@ sleep terror disorder
 sleep-wake disorder
 sleepwalking
 slipped capital femoral epiphysis
+small-vessel
+soap bubble appearance
+soap bubble lesions
 social phobia
 solitary pulmonary nodule
+solubility
 somatic symptom disorder
 somatostatin
 somatostatinoma
@@ -1403,6 +1540,7 @@ spermatogenesis
 spina bifida
 spinal artery thrombosis
 spinal compression
+spinal cord
 spinal cord compression
 spinal cord transection
 spinal muscular atrophy
@@ -1424,6 +1562,7 @@ stable angina
 staphylococcal scalded skin syndrome
 Staphylococcus aureus
 stasis dermatitis
+Steeple sign (x-ray)
 Stevens-Johnson syndrome
 stomatitis
 strabismus disorders of the retina
@@ -1431,6 +1570,7 @@ streptococcal throat infections
 Streptococcus
 Streptococcus agalactiae
 Streptococcus pneumoniae
+String sign
 Strongyloides stercoralis
 Sturge-Weber syndrome
 subarachnoid hemorrhage
@@ -1441,8 +1581,11 @@ subphrenic abscess
 substance-induced anxiety disorder
 substance-induced psychotic disorder
 sudden infant death syndrome (SIDS)
+Sunburst pattern
 supraspinatus syndrome
+sympathetic receptors
 syndrome of inappropriate antidiuretic hormone (SIADH)
+syphilis
 syringomyelia
 systemic inflammatory response syndrome (SIRS)
 systemic lupus erythematosus
@@ -1458,6 +1601,7 @@ Tay-Sachs disease
 temporal arteritis
 temporomandibular joint
 tenosynovitis
+teratogenicity
 terminal component deficiency
 tetanus
 tetanus neonatorum
@@ -1477,14 +1621,21 @@ tic disorders
 tinea barbae
 tinea capitis
 tinea corporis
+tinea pedis
+tissue mediators
 toll-like receptor
 torsades de pointes
+Torsades de pointes
 torsion of testis
 torticollis
 Tourette disorder
 toxic epidermal necrolysis
 toxic megacolon
 toxic shock syndrome
+Toxicara canis
+toxicities
+toxicity treatment
+toxoids
 Toxoplasma gondii
 tracheoesophageal fistula
 tracheomalacia
@@ -1495,18 +1646,24 @@ transverse myelitis
 traumatic brain injury
 trazodone
 Treponema pallidum
+trichinosis
+Trichomonas spp
 Trichomonas vaginalis
 trichomoniasis
 trichotillomania
 tricyclic antidepressants
 trigeminal neuralgia
 trophic and growth factors
+true
 trypanosomiasis
 tubal factors
 tuberous sclerosis
 tularemia
+tumor identification
 tumor lysis syndrome
 tumor necrosis factor
+tumor suppressor gene
+tumor suppressor genes
 Turcot syndrome
 ulcerative colitis
 umbilical hernia
@@ -1518,65 +1675,274 @@ urinary tract infection
 urticaria
 use disorder
 uterine cancer
+V(D)J recombination
+vaccination
+vaccine
+vaccine types
+vagal nuclei
+vagina
+vaginal bleeding
+vaginal candidiasis
+vaginal squamous cell carcinoma
+vaginal tumors
+vaginismus
+vaginitis
+vagus nerve (CN X)
+valacyclovir
+validity (accuracy)
+valine
+valproic acid
+valsartan
+valvular
+valvular disease
+valvular dysfunction
+vancomycin
+vancomycin-resistant Enterococcus (VRE)
+vanishing bile duct syndrome
 vardenafil
+varenicline
+variable expressivity
+variance
+variant angina
+variceal bleeding
 varicella zoster
 varicella-zoster immune globulin (VZIG)
+varicella-zoster virus (VZV)
 varicocele
 varicose veins
+vasa previa
+vasa vasorum
 vascular dementia
 vascular smooth muscle
+vasculitides
+vasculitis
+vasculopathy
+vasoactive intestinal polypeptide (VIP)
+vasoconstrictors
+vasodilation
+vasodilators
 vasomotor symptoms
 vasopressin
+vasopressors
+vasospastic angina
 VATER syndrome
+VDJ recombination
+vector-borne illnesses
+vedolizumab
 vegetation
+vegetative state
+velocardiofacial syndrome
+vemurafenib
 venereal warts
+venlafaxine
 venous insufficiency
+venous return
 venous sinus thrombosis
 venous thromboembolism
+venous thrombosis
+venous ulcer
+ventilation
 ventilation-perfusion scan
+ventilation/perfusion (V/Q)
+Ventilation/perfusion (V/Q) mismatch
 ventilator-associated pneumonia
+ventral lateral (VL) nucleus
+ventral pancreatic bud
+ventral posterolateral (VPL) nucleus
+ventral posteromedial (VPM) nucleus
+ventral tegmentum
+ventricle
+ventricular action potential
+ventricular aneurysm
 ventricular fibrillation
+ventricular fibrillation (VF)
+ventricular filling
+ventricular free wall
 ventricular free wall rupture
+ventricular myocytes
 ventricular puncture
 ventricular septal defect
+ventricular septal defect (VSD)
+ventricular system (CNS)
 ventricular tachycardia
+ventriculomegaly
+ventromedial nucleus (hypothalamus)
+verapamil
+verrucae
 verrucae vulgaris
+verrucous thrombi
+vertebral compression fractures
+vertical gaze palsy
+vertigo
+vesicourachal diverticulum
 vesicoureteral reflux
+vesicular monoamine transporter (VMAT)
+Vesicular trafficking proteins
 vestibular neuritis
+vestibular schwannomas
+vestibulocochlear nerve (CN VIII)
+VHL gene
 Vibrio cholerae
+Vibrio parahaemolyticus
+Vibrio vulnificus
+Vibrio vulnificusa
+vilazodone
+vimentin
+vinca alkaloids
 vincristine
+vinyl chloride carcinogenicity
+VIPomas
+viral envelope
+Virchow node
+Viridans group streptococci
+Viridans streptococci
+virilization
+virulence factors
+visceral leishmaniasis
+viscosity
+visual cortex
+visual field defects
+visual hallucinations
+visual impairment
+vital capacity (VC)
 vitamin A
+vitamin A (retinol)
 vitamin B1
+vitamin B1 (thiamine)
 vitamin B12
+vitamin B12 (cobalamin)
 vitamin B2
+vitamin B2 (riboflavin)
 vitamin B3
+vitamin B3 (niacin)
+vitamin B5 (pantothenic acid)
 vitamin B6
+vitamin B6 (pyridoxine)
 vitamin B7
+vitamin B7 (biotin)
 vitamin B9
+vitamin B9 (folate)
 vitamin C
+vitamin C (ascorbic acid)
+vitamin C toxicity
 vitamin D
+vitamin D (calciferol)
 vitamin E
 vitamin K
+vitelline duct
+vitelline duct cyst
 vitiligo
+VLDL (very low-density lipoprotein)
+Vmax
 vocal cord polyp
-von Hippel-Lindau disease
-von Willebrand disease
+volume of distribution (Vd)
+volvulus
+vomiting
+Vomiting center
+Von Gierke disease
+von Hippel-Lindau disease (VHL)
+von Hippel-Lindau syndrome (VHL)
+von Willebrand disease (VWD)
+voriconazole
+vortioxetine
+vulnerable child syndrome
+vulva
+vulvar carcinoma
+vulvar pathology
 vulvovaginitis
+WAGR complex
+WAGR syndrome
+Waiter’s tip
 Waldenstrom macroglobulinemia
+wall tension
+Wallenberg syndrome
+Wallerian degeneration
+Warburg effect
+warfarin
+Warthin tumor
+water-soluble vitamins
+Waterhouse-Friderichsen syndrome
+watershed areas
+watershed zones
+watery diarrhea
+waxy casts in urine
+WBC casts in urine
+weakness
+wear and tear pigment
 Wegener granulomatosis
+weight gain
+weight loss
+Werdnig-Hoffmann disease
+Wernicke (receptive) aphasia
+Wernicke aphasia
+Wernicke area
+Wernicke encephalopathy
 Wernicke-Korsakoff syndrome
 West Nile virus
+Western blot
 Western equine encephalitis virus
-Whipple disease viral
+wet beriberi
+Wharton duct
+Wharton jelly
+wheals
+Whipple disease
+whispered pectoriloquy
+white blood cell (WBC)
+white blood cells (WBCs)
+white matter
+Whooping cough
+Wickham striae
 wide complex tachycardia
+Wide splitting
+Williams syndrome
+Wilms tumor
 Wilms tumor/nephroblastoma
 Wilson disease
+winged scapula
+Winters formula
+wire looping of capillaries
 Wiskott-Aldrich syndrome
 withdrawal
+Wnt-7 gene
+Wobble
+Wolff-Chaikoff effect
 Wolff-Parkinson-White syndrome
-xeroderma pigmentosum
+Wolffian duct
+word salad
+worst headache of my life
+wound
+woven bone
+Wright stain
+Wright-Giemsa stain
+wrist
+wrist drop
+written advance directives
+WT1/WT2 gene
+Wuchereria bancrofti
+X-inactivation (lyonization)
+X-linked (Bruton) agammaglobulinemia (XLA)
+X-linked agammaglobulinemia (XLA)
+X-linked dominant disease
+X-linked dominant diseases
+X-linked dominant disorder
+X-linked dominant inheritance
+X-linked recessive disease
+X-linked recessive diseases
+X-linked recessive disorder
+X-linked recessive inheritance
+x-ray/imaging findings
+x-rays
+Xanthelasma
+Xanthogranulomatous pyelonephritis
+Xanthomas
+xeroderma pigmentosum (XP)
+Xerophthalmia
+Xerosis cutis
+Xerostomia
+Yellow fever virus
 Yersinia enterocolitica
 Yersinia pestis
+Yolk sac tumor
 zafirlukast
 zanamivir
 Zellweger syndrome
