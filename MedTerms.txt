@@ -78,6 +78,7 @@ acute interstitial nephritis
 acute kidney injury
 acute mesenteric ischemia
 acute myelogenous leukemia (AML)
+acute pericarditis
 acute respiratory distress syndrome (ARDS)
 acute stress disorder
 acute tubular necrosis (ATN)
@@ -113,6 +114,7 @@ allergic reactions/skin complement deficiency
 alopecia
 alpha blockers
 alpha-1 antitrypsin deficiency
+alpha-fetoprotein
 Alport syndrome
 alveolar
 alveolar ventilation
@@ -205,8 +207,10 @@ atrial flutter/fibrillation
 atrial natriuretic peptide
 atrial septal defect
 atrioventricular block
+atropine
 attention deficit/hyperactivity disorder
 autism spectrum disorder
+autoantibody
 autoimmune hemolytic anemia
 autoimmune hepatitis
 autoimmune hypogonadism
@@ -239,14 +243,17 @@ Baylisascaris procyonis
 Beckwith-Wiedemann syndrome
 Behçet syndrome
 Bell palsy
+Bence Jones proteinuria
 benign positional vertigo
 benign prostatic hyperplasia
+benign prostatic hyperplasia (BPH)
 benzodiazepines
 bereavement
 beriberi
 berylliosis
 beta-2 microglobulin
 beta-adrenergic blockers
+bethanechol
 bevacizumab
 bicornuate uterus
 bile duct obstruction
@@ -261,6 +268,7 @@ biophysical profile
 bipolar disorder
 Bird’s beak sign
 birth asphyxia syndrome
+bismuth
 bladder rupture
 Blastomyces dermatitidis
 blastomycosis
@@ -293,6 +301,7 @@ bronchitis
 bronchogenic cysts
 bronchopneumonia
 bronchopulmonary dysplasia
+Brown-Séquard syndrome
 Brucella spp
 brucellosis
 buboes
@@ -356,6 +365,7 @@ chemotherapeutic
 chickenpox
 chikungunya
 child
+chlamydia
 Chlamydia trachomatis
 Chlamydophila pneumoniae
 cholangiocarcinoma
@@ -408,6 +418,7 @@ community-acquired pneumonia
 compartment syndrome
 complement receptor
 complex regional pain syndrome
+complications
 conduct disorder
 condylomata acuminata
 congenital abnormalities
@@ -448,7 +459,9 @@ cryoglobulinemia
 Cryptococcus neoformans
 Cryptosporidium
 cubital tunnel syndrome
+Curling Ulcers
 Cushing syndrome
+Cushing Ulcers
 cutaneous flushing
 cutaneous larva migrans
 cutaneous leishmaniasis infestations
@@ -471,6 +484,7 @@ deep venous thrombosis
 defecation
 deficiency
 degenerative osteoarthritis
+delirium
 delusional disorder
 demyelinating disorders
 dengue fever
@@ -496,6 +510,7 @@ diverticulitis
 diverticulosis
 Down syndrome
 drainage
+drug elimination
 drug metabolism
 drug reactions
 drug-induced gastritis
@@ -561,9 +576,11 @@ Enterococcus spp.
 enterohepatic circulation
 enterovirus
 enthesopathy of spine
+enuresis
 eosinophilic basic protein
 eosinophilic esophagitis
 eosinophilic granuloma
+ephedrine for
 epidermolysis bullosa
 epididymal cyst
 epididymitis
@@ -580,6 +597,7 @@ erythema multiforme
 erythema nodosum
 erythropoietin
 Escherichia coli
+esophageal
 esophageal atresia
 esophageal cancer
 esophageal perforation
@@ -601,6 +619,7 @@ expenditure
 external cephalic maneuver
 extracellular products
 extrapyramidal effects
+extravascular hemolysis
 Fabry disease
 factitious disorder
 Factor V Leiden
@@ -670,6 +689,7 @@ genetic drift
 genetic screening
 genital herpes
 genital warts
+genitourinary
 genu valgum
 genu valgum or varum
 genu varum
@@ -696,6 +716,7 @@ gonorrhea
 Goodpasture syndrome
 gouty arthritis
 graft-vs-host disease
+gram stain
 granulation tissue
 granulomatosis
 granulomatosis with polyangiitis
@@ -858,6 +879,7 @@ immunotherapy
 impacted cerumen
 imperforate hymen
 impetigo
+implantation
 impulse control disorder
 inborn errors of metabolism
 infantile spinal muscular atrophy
@@ -870,6 +892,7 @@ influenza virus
 inguinal
 inhalant use disorder
 inheritance
+injury
 innervation
 insulinoma
 intellectual developmental disorder
@@ -877,6 +900,7 @@ intermenstrual bleeding
 internuclear ophthalmoplegia
 interstitial cystitis
 interstitial lung disease
+interstitial nephritis
 interstitial pneumonia
 intestinal obstruction
 intestinal obstruction/stricture
@@ -890,6 +914,7 @@ intraductal carcinoma
 intraparenchymal hemorrhage
 intrapartum fetal distress
 intrapartum prophylaxis
+intravascular hemolysis
 intussusception
 iridocyclitis
 iron deficiency
@@ -911,6 +936,7 @@ keloid
 keratinocytes
 keratoconjunctivitis
 ketoacidosis
+kidney stones
 Klebsiella pneumoniae
 Klebsiella spp
 kleptomania
@@ -934,6 +960,7 @@ leishmaniasis
 Leptospira
 Leptospira interrogans
 leptospirosis
+Lesch-Nyhan syndrome
 leukemias
 leukemoid reaction
 leukocyte adhesion deficiency
@@ -948,7 +975,9 @@ lochia
 Loeffler syndrome
 Lofgren syndrome
 long QT
+lower extremity
 lower gastrointestinal bleeding
+lower GI bleeding
 lung
 lupus anticoagulant
 lupus nephritis
@@ -986,6 +1015,7 @@ maple syrup urine disease
 marasmus
 Marburg virus
 Marfan syndrome
+mast cell degranulation
 McArdle disease
 measles
 mechanism
@@ -1083,6 +1113,7 @@ myocarditis
 myofascial pain syndrome
 Ménière disease
 müllerian agenesis
+Müllerian duct
 Naegleria fowleri
 naked (nonenveloped) RNA viruses
 narcissistic personality disorder
@@ -1101,7 +1132,9 @@ neonatal conjunctivitis
 neonatal hydrocele
 neonatal hypoglycemia
 neoplasm
+neoplasms
 neoplastic
+neostigmine
 nephroblastoma
 nephrolithiasis
 nephrosclerosis
@@ -1148,6 +1181,7 @@ oral contraceptives
 orbital fracture
 orgasmic dysfunction
 orlistat
+ornithine transcarbamylase
 orthostatic hypotension
 Osgood-Schlatter disease
 ossification
@@ -1254,6 +1288,7 @@ phobic disorders
 phocomelia
 phosphorus
 phyllodes tumors
+physiologic neonatal jaundice
 pigmented nevi
 pilonidal cyst
 pituitary apoplexy
@@ -1264,6 +1299,7 @@ placenta accreta
 placenta increta
 placenta previa
 placental abruption
+plasma cell dyscrasias
 Plasmodium spp
 platelet dysfunction
 pleural effusion
@@ -1288,6 +1324,7 @@ polypharmacy
 polysubstance use
 porphyria
 portal hypertension
+portosystemic anastomosis
 post-gastric surgery syndromes
 post-traumatic stress disorder
 postcoital bleeding
@@ -1308,6 +1345,7 @@ precancerous neoplasm
 precocious puberty
 prednisone
 preeclampsia
+pregnancy test
 premature ejaculation
 premature infant
 premature menopause
@@ -1378,6 +1416,7 @@ rabies virus
 radiculopathies
 Ramsay-Hunt syndrome
 rapid eye movement (REM)
+rate-determining enzyme
 Raynaud disease
 Raynaud syndrome
 reactive airway disease
@@ -1388,6 +1427,7 @@ rectocele
 rectum
 red blood cell (RBC)
 red blood cells (RBCs)
+reducing sugar
 refractive disorders
 refractive errors
 refractory
@@ -1479,6 +1519,7 @@ schizoaffective disorder
 schizoid personality disorder
 schizophrenia
 scleroderma
+scombroid poisoning
 scorpion bites
 scrotal laceration
 sebaceous glands
@@ -1498,6 +1539,7 @@ senile purpura
 separation anxiety disorder
 septic abscess
 septic arthritis
+seronegative spondyloarthritis
 serotonin syndrome
 serum sickness
 severe combined immunodeficiency disease (SCID)
@@ -1553,6 +1595,7 @@ splenic laceration
 splenic rupture
 splenic rupture/laceration
 spondylitis
+spondyloarthritis
 spondylolisthesis
 spondylolysis
 spondylopathy
@@ -1580,7 +1623,10 @@ subhepatic abscess
 subphrenic abscess
 substance-induced anxiety disorder
 substance-induced psychotic disorder
+sucralfate
 sudden infant death syndrome (SIDS)
+sulfa drug allergies
+sulfasalazine
 Sunburst pattern
 supraspinatus syndrome
 sympathetic receptors
@@ -1665,16 +1711,64 @@ tumor necrosis factor
 tumor suppressor gene
 tumor suppressor genes
 Turcot syndrome
+U wave
+ubiquitin-proteasome system
+ubiquitination
+UDP-glucuronosyltransferase
 ulcerative colitis
+ulipristal
+Ulnar claw
+Ulnar nerve
+umbilical cord
 umbilical hernia
+UMP synthase
+unambiguous genetic code
+uncal herniation
+uncinate process
+unconjugated (indirect) hyperbilirubinemia
+unconjugated bilirubin
+uncoupling agents
+undulant fever
+unilateral renal agenesis
+uniparental disomy
+unstable angina
+upper extremity
 upper gastrointestinal bleeding
+upper GI bleeding
+upper motor neuron (UMN)
 upper respiratory infection
+urachal cysts
+urachus
+urea cycle
+Ureaplasma spp
+uremia
+ureter
+ureteric bud
+ureteropelvic junction
+urethra
 urethral diverticulum
+urethritis
+urge incontinence
+uric acid
+urinalysis
 urinary incontinence
+urinary retention
 urinary tract infection
+urinary tract infection (UTI)
+urinary tract obstruction
+urine
+urine protein electrophoresis (UPEP)
+urobilinogen
+urogenital sinus
+urosepsis
+urothelial carcinoma (bladder)
 urticaria
 use disorder
+ustekinumab
 uterine cancer
+uterine procidentia
+uterovaginal agenesis
+uveitis
 V(D)J recombination
 vaccination
 vaccine
@@ -1959,3 +2053,4 @@ zoledronate
 Zollinger-Ellison syndrome
 zona fasciculata
 zoonotic bacteria
+zygote
