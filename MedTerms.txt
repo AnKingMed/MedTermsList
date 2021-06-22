@@ -1,3 +1,6 @@
+2-naphthylamine
+21-hydroxylase
+22q11 deletion syndrome
 A-a gradient
 AB toxin
 abacavir
@@ -9,9 +12,9 @@ abdominal pain
 abdominal wall
 abdominal wall defects
 Abducens nerve (CN VI)
-Abductor digiti minimi muscle
-Abductor pollicis brevis muscle
-Abetalipoproteinemia
+abductor digiti minimi muscle
+abductor pollicis brevis muscle
+abetalipoproteinemia
 abnormal Pap smear
 abnormal uterine bleeding (AUB)
 ABO hemolytic disease of newborn
@@ -158,6 +161,7 @@ anoxic brain damage
 antepartum hemorrhage
 anti-NMDA receptor encephalitis
 antianginal therapy
+antibody-mediated
 anticardiolipin antibodies
 anticholinesterase
 antifungal agents
@@ -247,6 +251,7 @@ Bence Jones proteinuria
 benign positional vertigo
 benign prostatic hyperplasia
 benign prostatic hyperplasia (BPH)
+benign vs malignant
 benzodiazepines
 bereavement
 beriberi
@@ -335,9 +340,11 @@ carpal tunnel syndrome
 cat scratch disease
 cataplexy
 cataract
+catecholamine
 cauda equina syndrome
 cauliflower ear
 celiac disease
+cell-mediated
 central retinal artery embolus
 central retinal vein occlusion
 cerebral artery aneurysm
@@ -405,6 +412,7 @@ Clostridium botulinum
 Clostridium difficile
 Clostridium perfringens
 Clostridium tetani
+coarctation of aorta
 coarctation of the aorta
 cobalamin
 cocaine
@@ -432,6 +440,7 @@ congestive heart failure
 conjunctivitis
 constipation
 constitutional delay
+contact dermatitis
 contraception
 contractility
 contractures
@@ -508,10 +517,13 @@ disseminated intravascular coagulation
 dissociative disorders
 diverticulitis
 diverticulosis
+dizygotic
 Down syndrome
 drainage
+DRESS syndrome
 drug elimination
 drug metabolism
+drug rash with eosinophilia and systemic symptoms (DRESS) syndrome
 drug reactions
 drug-induced gastritis
 drug-induced hepatitis
@@ -715,6 +727,7 @@ gonococcal prophylaxis
 gonorrhea
 Goodpasture syndrome
 gouty arthritis
+graft-versus-host disease
 graft-vs-host disease
 gram stain
 granulation tissue
@@ -807,6 +820,7 @@ Horner syndrome
 horseshoe kidney
 hospital-acquired
 hospital-acquired pneumonia
+human chorionic gonadotropin (hCG)
 human herpesvirus 8 (HHV-8)
 human immunodeficiency virus
 human papillomavirus infection
@@ -865,6 +879,7 @@ idiopathic intracranial hypertension
 IgA nephropathy
 illness anxiety disorder
 immotile cilia syndrome
+immune complex
 immune reconstitution syndrome (IRS)
 immune thrombocytopenic purpura
 immunity
@@ -1078,6 +1093,7 @@ molluscum contagiosum
 monoclonal antibodies
 monoclonal gammopathy of unknown significance (MGUS)
 mononeuritis
+monozygotic
 Moraxella catarrhalis
 morbidity
 morning-after pill
@@ -1111,6 +1127,7 @@ myocardial infarction
 myocardial rupture
 myocarditis
 myofascial pain syndrome
+myotonic dystrophy
 Ménière disease
 müllerian agenesis
 Müllerian duct
@@ -1140,6 +1157,7 @@ nephrolithiasis
 nephrosclerosis
 nephrotic syndrome
 neural tube defects
+neuralgia
 neuroblastomas
 neurofibromatosis
 neurogenic
@@ -1147,6 +1165,7 @@ neurogenic bladder
 neuroleptic malignant syndrome
 neurosyphilis
 neutrophils
+nifurtimox
 nitrates
 Nocardia spp
 non-Hodgkin lymphoma
@@ -1179,6 +1198,7 @@ oppositional defiant disorder
 optic neuritis
 oral contraceptives
 orbital fracture
+organ transplant
 orgasmic dysfunction
 orlistat
 ornithine transcarbamylase
@@ -1212,11 +1232,13 @@ Paget disease of bone
 Paget disease of breast
 pain management
 palmar
+pancreatic adenocarcinoma
 pancreatic cancer
 pancreatic cyst
 pancreatic duct obstruction
 pancreatic insufficiency
 pancreatic neuroendocrine tumor
+pancreatic secretion
 pancreatitis
 pancytopenia
 panhypopituitarism
@@ -1244,8 +1266,12 @@ patent ductus arteriosus
 patent foramen ovale
 pathologic fracture
 pelvic inflammatory disease
+pemphigoid
 pemphigoid urticaria
 pemphigus
+pemphigus bullous
+pemphigus vulgaris
+pemphigus vulgaris/bullous
 pencil-in-cup
 penetrating chest wounds
 penicillin
@@ -1408,6 +1434,7 @@ pyloric stenosis
 pyoderma gangrenosum
 pyonephrosis
 pyridoxine
+pyrimidine synthesis
 pyromania
 pyruvate dehydrogenase complex
 pyruvate kinase deficiency
@@ -1545,6 +1572,7 @@ serum sickness
 severe combined immunodeficiency disease (SCID)
 sexual dysfunction
 sexually transmitted infections
+sexually transmitted infections (STI)
 Sheehan syndrome
 Shigella species
 short bowel syndrome
@@ -1635,9 +1663,13 @@ syphilis
 syringomyelia
 systemic inflammatory response syndrome (SIRS)
 systemic lupus erythematosus
+systemic lupus erythematosus (SLE)
 systemic sclerosis
 systolic dysfunction
+T wave
 T-cell lymphoma
+t-test
+T-tubule
 tadalafil
 Takayasu arteritis
 takotsubo
@@ -1649,6 +1681,7 @@ temporomandibular joint
 tenosynovitis
 teratogenicity
 terminal component deficiency
+tetanospasmin
 tetanus
 tetanus neonatorum
 tetralogy of Fallot
@@ -1680,6 +1713,7 @@ toxic megacolon
 toxic shock syndrome
 Toxicara canis
 toxicities
+toxicity
 toxicity treatment
 toxoids
 Toxoplasma gondii
@@ -1687,6 +1721,7 @@ tracheoesophageal fistula
 tracheomalacia
 transfusion-related acute lung injury (TRALI)
 transient ischemic attack
+transmission
 transposition of the great vessels
 transverse myelitis
 traumatic brain injury
@@ -1695,22 +1730,96 @@ Treponema pallidum
 trichinosis
 Trichomonas spp
 Trichomonas vaginalis
+Trichomoniasis
 trichomoniasis
+Trichophyton spp
+Trichotillomania
 trichotillomania
+Trichuris
+Trichuris trichiura
+tricuspid atresia
+tricuspid regurgitation
+tricuspid valve endocarditis
 tricyclic antidepressants
+tricyclic antidepressants (TCAs)
+trientine
+trifluoperazine
+Trigeminal nerve (CN V)
 trigeminal neuralgia
+triglycerides
+trihexyphenidyl
+triiodothyronine (T3)
+trimethoprim
+trinucleotide repeat expansion diseases
+triple-blinded study
+triptan
+triquetrum bone
+trismus (lockjaw)
+trisomy
+trisomy 13 (Patau syndrome)
+trisomy 18 (Edwards syndrome)
+trisomy 21 (Down syndrome)
+tRNA
+Trochlear nerve (CN IV)
 trophic and growth factors
+tropical sprue
+tropicamide
+troponin
+Trousseau sign
+Trousseau syndrome
 true
+true diverticulum
+true-negative rate
+true-positive rate
+truncal ataxia
+Trypanosoma brucei
+Trypanosoma cruzi
+trypanosomes
 trypanosomiasis
-tubal factors
+trypsin
+trypsinogen
+tryptase
+tryptophan
+TSC1/TSC2 genes
+tubal factor
+tuberculoid leprosy
+tuberculosis
+tuberin protein
+tuberoinfundibular
 tuberous sclerosis
+tubulointerstitial
+tubulointerstitial nephritis
 tularemia
 tumor identification
 tumor lysis syndrome
+tumor markers
 tumor necrosis factor
+tumor plop
 tumor suppressor gene
-tumor suppressor genes
+Tunica albuginea
+Tunica vaginalis
 Turcot syndrome
+Turner syndrome
+twin-twin transfusion syndrome
+type 1 diabetes mellitus
+type 1 vs type 2 diabetes mellitus
+type 2 diabetes mellitus
+Type I collagen
+Type I error (α)
+Type I hypersensitivity reaction
+Type I skeletal muscle fibers
+Type II collagen
+Type II error (β)
+Type II hypersensitivity reaction
+Type II skeletal muscle fibers
+Type III collagen
+Type III hypersensitivity reaction
+Type IV hypersensitivity reaction
+typhoid fever
+typhus
+typical (1st-generation) antipsychotic
+tyrosinase
+tyrosine
 U wave
 ubiquitin-proteasome system
 ubiquitination
@@ -1772,7 +1881,6 @@ uveitis
 V(D)J recombination
 vaccination
 vaccine
-vaccine types
 vagal nuclei
 vagina
 vaginal bleeding
@@ -1812,12 +1920,11 @@ vasculitides
 vasculitis
 vasculopathy
 vasoactive intestinal polypeptide (VIP)
-vasoconstrictors
+vasoconstrictor
 vasodilation
 vasodilators
-vasomotor symptoms
 vasopressin
-vasopressors
+vasopressor
 vasospastic angina
 VATER syndrome
 VDJ recombination
@@ -1845,6 +1952,7 @@ ventral pancreatic bud
 ventral posterolateral (VPL) nucleus
 ventral posteromedial (VPM) nucleus
 ventral tegmentum
+ventral wall defect
 ventricle
 ventricular action potential
 ventricular aneurysm
@@ -1932,7 +2040,7 @@ vocal cord polyp
 volume of distribution (Vd)
 volvulus
 vomiting
-Vomiting center
+vomiting center
 Von Gierke disease
 von Hippel-Lindau disease (VHL)
 von Hippel-Lindau syndrome (VHL)
@@ -1960,6 +2068,7 @@ watershed areas
 watershed zones
 watery diarrhea
 waxy casts in urine
+WBC casts
 WBC casts in urine
 weakness
 wear and tear pigment
@@ -1984,10 +2093,10 @@ whispered pectoriloquy
 white blood cell (WBC)
 white blood cells (WBCs)
 white matter
-Whooping cough
+whooping cough
 Wickham striae
 wide complex tachycardia
-Wide splitting
+wide splitting
 Williams syndrome
 Wilms tumor
 Wilms tumor/nephroblastoma
@@ -1998,7 +2107,7 @@ wire looping of capillaries
 Wiskott-Aldrich syndrome
 withdrawal
 Wnt-7 gene
-Wobble
+wobble
 Wolff-Chaikoff effect
 Wolff-Parkinson-White syndrome
 Wolffian duct
@@ -2010,33 +2119,31 @@ Wright stain
 Wright-Giemsa stain
 wrist
 wrist drop
-written advance directives
+written advance directive
 WT1/WT2 gene
 Wuchereria bancrofti
 X-inactivation (lyonization)
 X-linked (Bruton) agammaglobulinemia (XLA)
 X-linked agammaglobulinemia (XLA)
 X-linked dominant disease
-X-linked dominant diseases
 X-linked dominant disorder
 X-linked dominant inheritance
 X-linked recessive disease
-X-linked recessive diseases
 X-linked recessive disorder
 X-linked recessive inheritance
 x-ray/imaging findings
-x-rays
-Xanthelasma
-Xanthogranulomatous pyelonephritis
-Xanthomas
+x-ray
+xanthelasma
+xanthogranulomatous pyelonephritis
+xanthoma
 xeroderma pigmentosum (XP)
-Xerophthalmia
-Xerosis cutis
-Xerostomia
-Yellow fever virus
+xerophthalmia
+xerosis cutis
+xerostomia
+yellow fever virus
 Yersinia enterocolitica
 Yersinia pestis
-Yolk sac tumor
+yolk sac tumor
 zafirlukast
 zanamivir
 Zellweger syndrome
@@ -2050,7 +2157,7 @@ zileuton
 zinc
 ziprasidone
 zoledronate
-Zollinger-Ellison syndrome
+Zollinger-Ellison syndrome (ZES)
 zona fasciculata
 zoonotic bacteria
 zygote
