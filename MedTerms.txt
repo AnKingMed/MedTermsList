@@ -404,6 +404,7 @@ circumcision
 cirrhosis
 cisplatin
 claudication
+Classic galactosemia
 cleft lip
 cleft lip and palate
 cleft palate
@@ -676,6 +677,10 @@ furosemide
 G6PD deficiency
 gadolinium
 galactorrhea
+Galactose-1-phosphate uridylyltransferase (GALT)
+galactosemia
+Galactosuria
+Galactokinase (GALK) deficiency 
 gallbladder
 gallstone ileus
 gambling
@@ -1825,6 +1830,8 @@ tyrosine
 U wave
 ubiquitin-proteasome system
 ubiquitination
+UDP-galactose 4-epimerase (GALE)
+UDP-galactose 4-epimerase (GALE) deficiency
 UDP-glucuronosyltransferase
 ulcerative colitis
 ulipristal
