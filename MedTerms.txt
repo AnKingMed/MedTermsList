@@ -248,6 +248,7 @@ Beckwith-Wiedemann syndrome
 Behçet syndrome
 Bell palsy
 Bence Jones proteinuria
+Benign intracranial hypertension ()
 benign positional vertigo
 benign prostatic hyperplasia
 benign prostatic hyperplasia (BPH)
@@ -830,6 +831,7 @@ human herpesvirus 8 (HHV-8)
 human immunodeficiency virus
 human papillomavirus infection
 Huntington disease
+Hurler syndrome
 hydatidiform mole
 hydrocele
 hydrocephalus
@@ -881,6 +883,7 @@ hypoventilation
 hypoxic stroke
 ichthyosis
 idiopathic intracranial hypertension
+iduronate-2-sulfatase
 IgA nephropathy
 illness anxiety disorder
 immotile cilia syndrome
@@ -962,6 +965,7 @@ Klebsiella spp
 kleptomania
 Klinefelter syndrome
 kyphoscoliosis
+Kwashiorkor
 labyrinthitis
 lactose intolerance
 Langerhans cell histiocytosis
@@ -991,6 +995,7 @@ lichen sclerosus
 Listeria monocytogenes
 lithium
 liver
+Lobular carcinoma in situ (LCIS)
 lochia
 Loeffler syndrome
 Lofgren syndrome
@@ -1066,6 +1071,7 @@ metabolic bone disease
 metabolic encephalopathy
 metabolic proficiency
 metabolic syndrome
+metachromatic leukodystrophy
 methamphetamine
 methanol
 methemoglobin
@@ -1171,6 +1177,7 @@ neurogenic bladder
 neuroleptic malignant syndrome
 neurosyphilis
 neutrophils
+Niemann-Pick disease
 nifurtimox
 nitrates
 Nocardia spp
