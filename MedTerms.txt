@@ -677,10 +677,10 @@ furosemide
 G6PD deficiency
 gadolinium
 galactorrhea
-Galactose-1-phosphate uridylyltransferase (GALT)
+galactose-1-phosphate uridylyltransferase (GALT)
 galactosemia
-Galactosuria
-Galactokinase (GALK) deficiency 
+galactosuria
+galactokinase (GALK) deficiency 
 gallbladder
 gallstone ileus
 gambling
@@ -1048,7 +1048,7 @@ medium-vessel
 medulloblastoma
 melioidosis
 membrane attack complex deficiency
-Menarche
+menarche
 MEN 1
 MEN 2A
 MEN 2B
