@@ -220,6 +220,8 @@ autoimmune hepatitis
 autoimmune hypogonadism
 autoimmune vasculitis
 autonomic dysreflexia
+autosomal recessive
+autosomal dominant
 avascular osteonecrosis
 avoidant personality disorder
 avulsion
@@ -317,6 +319,7 @@ Burkholderia pseudomallei
 Burkitt lymphoma
 bursitis
 C1 esterase inhibitor deficiency
+cachexia
 caffeine withdrawal
 calcification
 calcitriol
@@ -960,6 +963,7 @@ keratinocytes
 keratoconjunctivitis
 ketoacidosis
 kidney stones
+kinetochore 
 Klebsiella pneumoniae
 Klebsiella spp
 kleptomania
@@ -1705,7 +1709,7 @@ third-trimester bleeding
 thromboangiitis obliterans
 thrombocytopenia
 thrombophlebitis
-thrombotic thrombocytopenic purpura
+thrombotic thrombocytopenic purpura (TTP)
 thymic aplasia
 thyroid storm
 thyroiditis
