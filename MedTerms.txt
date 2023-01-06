@@ -236,6 +236,7 @@ bacterial
 bacterial endocarditis
 bacterial peritonitis
 bacterial vaginosis
+balanced Robertsonian translocation
 balanitis
 bamboo spine
 baroreceptors
@@ -1540,6 +1541,7 @@ risk factors
 risk-taking behavior
 rituximab
 RLQ pain
+Robertsonian translocation
 role confusion
 rosacea
 roseola
@@ -1854,6 +1856,7 @@ umbilical cord
 umbilical hernia
 UMP synthase
 unambiguous genetic code
+unbalanced Robertsonian translocation
 uncal herniation
 uncinate process
 unconjugated (indirect) hyperbilirubinemia
