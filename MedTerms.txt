@@ -931,6 +931,7 @@ interstitial cystitis
 interstitial lung disease
 interstitial nephritis
 interstitial pneumonia
+interstitial cell of Cajal
 intestinal obstruction
 intestinal obstruction/stricture
 intestinal stricture
