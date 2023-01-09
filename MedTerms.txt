@@ -629,6 +629,7 @@ essential tremor
 ethambutol
 ethylene glycol
 etiology
+euchromatin
 eustachian tube
 euthyroid sick syndrome
 euthyroid-normal thyroid function with goiter
@@ -809,6 +810,7 @@ herpes simplex type 2
 herpes simplex virus
 herpes zoster
 herpesvirus
+heterochromatin
 HHV-3
 hidradenitis suppurativa
 high altitude
