@@ -70,6 +70,7 @@ acute cholangitis
 acute cholestatic hepatitis
 acute coronary syndrome
 acute cystitis
+acute decompensated heart failure (ADHF)
 acute disseminated (postinfectious) encephalomyelitis
 acute dystonia
 acute fatty liver of pregnancy
