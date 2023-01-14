@@ -735,6 +735,8 @@ glomerulonephritis
 glucagonoma
 glucose-6-phosphate dehydrogenase (G6PD)
 glucose-6-phosphate dehydrogenase deficiency (G6PD deficiency)
+glycogenesis
+glycogenolysis
 glycogen phosphorylase deficiency
 glycogen storage disease
 gonococcal prophylaxis
